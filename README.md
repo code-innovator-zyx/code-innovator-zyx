@@ -3,7 +3,7 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
 <h2>👋 关于我</h2>
-你好, 我是 **<font color="#03A9F4">Oliver</font>**, 一个 **<font color="#F31199">研发工程师</font>** !  🧐
+你好, 我是 **<font color="#03A9F4">{Oliver}</font>**, 一个 **<font color="#F31199">{研发工程师}</font>** !  🧐
 
 <h2>🏆 GitHub 活动</h2>
 
@@ -12,6 +12,8 @@
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-innovator-zyx&theme=merko&custom_title=Oliver 活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/code-innovator-zyx)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-innovator-zyx&theme=merko&custom_title=Oliver%E6%B4%BB%E5%8A%A8%E5%9B%BE&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
 
 <h2>🔧 语言和工具</h2>
 

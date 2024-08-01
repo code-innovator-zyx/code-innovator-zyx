@@ -3,7 +3,8 @@
 [English](./README.md) | [简体中文](./README_zh-CN.md) | [繁體中文](./README_zh-HK.md)
 
 <h2>👋 关于我</h2>
-你好, 我是 **<font color="#03A9F4">{Oliver}</font>**, 一个 **<font color="#F31199">{研发工程师}</font>** !  🧐
+
+你好, 我是 **<font color="#03A9F4">Oliver</font>**, 一个 **<font color="#F31199">研发工程师</font>** !  🧐
 
 <h2>🏆 GitHub 活动</h2>
 

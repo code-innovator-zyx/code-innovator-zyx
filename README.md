@@ -40,15 +40,13 @@
 	<a href="https://www.hutool.cn" target="_blank"> <img src="https://plus.hutool.cn/images/hutool.svg" alt="hutool" height="40"/> </a>
     <!-- ********** I ********** -->
     <!-- ********** J ********** -->
-	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a>
 	<a href="https://www.json.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40"/> </a>
 	<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="40"/> 
     <!-- ********** K ********** -->
     <!-- ********** L ********** -->
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a> 
 	<!-- ********** M ********** -->
-    <a href="https://metamask.io" target="_blank"> <img src="https://metamask.io/images/metamask-logo.png" alt="metamask" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> 
+       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> 
 	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/> </a> 
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> </a> 
 	<a href="https://baomidou.com" target="_blank"> <img src="https://baomidou.com/assets/asset.cIbiVTt_.svg" alt="MyBatis-Plus" height="40"/> </a>
@@ -69,17 +67,10 @@
     <a href="https://cloud.tencent.com/" target="_blank"> <img src="https://cloudcache.tencent-cloud.com/qcloud/favicon.ico" alt="tencent-cloud" height="40"/> </a>
 	<!-- ********** U ********** -->
 	<!-- ********** V ********** -->
-    <a href="https://vitejs.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" alt="vite" height="40"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40"/> </a> 
-    <a href="https://vuetifyjs.com" target="_blank"> <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-text-logo-light.svg" alt="Vuetify" height="40"/> </a>
-    <!-- ********** W ********** -->
-    <a href="https://walletconnect.com" target="_blank"> <img src="https://walletconnect.com/static/favicon.png" alt="walletconnect" height="40"/> </a>
-    <a href="https://web3js.org" target="_blank"> <img src="https://web3js.org/web3js.png" alt="web3js" height="40"/> </a>
-    <a href="https://www.web3labs.com/web3j-sdk" target="_blank"> <img src="https://www.web3labs.com/hubfs/favicon.svg" alt="Web3j" height="40"/> </a>
-    <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" height="40"/> </a>
-    <!-- ********** X ********** -->
-    <!-- ********** Y ********** -->
-    <!-- ********** Z ********** -->
+	<!-- ********** W ********** -->
+	<!-- ********** X ********** -->
+	<!-- ********** Y ********** -->
+	<!-- ********** Z ********** -->
 </p>
 
 
@@ -87,12 +78,11 @@
 <h2>💻 IDE (集成开发环境)</h2>
 
 <p>
+	<a href="https://www.jetbrains.com/go/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" alt="idea" height="40"/> </a>
+	<a href="https://www.jetbrains.com/python/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="idea" height="40"/> </a>
 	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" height="40"/> </a>
     <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" alt="datagrip" height="40"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40"/> </a>
-    <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://notepad-plus-plus.org/images/logo.svg" alt="notepad-plus-plus" height="40"/> </a>
-    <a href="https://www.dcloud.io/hbuilderx.html" target="_blank"> <img src="https://1967399885.hiecheimaetu.com:22443/qn-324ELNAp8KSZLNhoiFj4uMVYtWjsUJSk2XG0aLw4.img.cdn.aliyun.dcloud.net.cn/hbuilderx/website/en/icon/hx_icon@2x.png" alt="hbuilderx" height="40"/> </a>
-    <a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/favicon-64.png" alt="typora" height="40"/> </a>
     <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" alt="wechat" height="40"/> </a>
 </p>

@@ -11,7 +11,7 @@
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=code-innovator-zyx&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-innovator-zyx&theme=merko&custom_title=code-innovator-zyx 活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-innovator-zyx&theme=merko&custom_title=code-innovator-zyx 活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/code-innovator-zyx)
 
 <h2>🔧 语言和工具</h2>
 

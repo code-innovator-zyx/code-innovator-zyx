@@ -4,7 +4,7 @@
 
 <h2>👋 关于我</h2>
 
-你好, 我是 **<font color="#03A9F4">Oliver</font>**, 一个 **<font color="#F31199">研发工程师</font>** !  🧐
+你好, 我是 **<font color="#03A9F4">Oliver</font>**, 一名 **<font color="#F31199">研发工程师</font>** !  🧐,擅长golang、python、rust、java开发，目前正在学习前端技术，誓做一名全栈工程师。
 
 <h2>🏆 GitHub 活动</h2>
 
